@@ -1,0 +1,9 @@
+{
+	"name": "Balademo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e28b35e4-bb58-458a-a75d-89d3fa38bdd4",
+		"tenantId": "604c1504-c6a3-4080-81aa-b33091104187"
+	}
+}
